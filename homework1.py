@@ -15,7 +15,13 @@ questionsList = ['Who was the starting QB for the Patriots before Tom Brady?',
                  'What 2 teams has Tom Brady lost to in the Super Bowl?', 'Who did the Patriots play in Super Bowl 52?',
                  'How many times has Tom Brady won the MVP award?',
                  'What was the name of the quarterback who took over when Brady tore his ACL?',
-                 'Who scored the game-winning touchdown in overtime of Super Bowl 51 to complete the 28-3 comeback?'
+                 'Who scored the game-winning touchdown in overtime of Super Bowl 51 to complete the 28-3 comeback?',
+                 'What year were the New England Patriots founded?',
+                 'Which of the following Super Bowls did the New England Patriots NOT win?',
+                 'How many years did it take Bill Belichick to win a Super Bowl with the New England Patriots?',
+                 'In the seventh game of the 2004 season, the Patriots lost to make their record 6-1. Who did they play?',
+                 'Where did Tom Brady go to college?'
+                 
                  ]
 optionsList = [['Matt Cassel', 'Drew Bledsoe', 'Brian Hoyer', 'Danny Etling'],
                ['2002, 2003, 2008, 2013', '2003, 2004, 2007, 2013', '2001, 2003, 2004, 2014', '2001, 2003, 2004, 2007'],
@@ -25,10 +31,16 @@ optionsList = [['Matt Cassel', 'Drew Bledsoe', 'Brian Hoyer', 'Danny Etling'],
                ['Philadelphia Eagles', 'Atlanta Falcons', 'Los Angeles Rams', 'Carolina Panthers'],
                ['4 times', '5 times', '2 times', '3 times'],
                ['Jacoby Brissett', 'Matt Cassel', 'Brian Hoyer', 'Peyton Manning'],
-               ['James White', 'Deion Lewis', 'Sony Michel', 'Stephen Ridley']
+               ['James White', 'Deion Lewis', 'Sony Michel', 'Stephen Ridley'],
+               ['1940', '1950', '1960', '1970'],
+               ['Super Bowl XXXVI', 'Super Bowl XXXVII', 'Super Bowl XXXVIII', 'Super Bowl XXXIX'],
+               ['1', '2', '3', '4'],
+               ['Denver Broncos', 'New York Jets', 'Chicago Bears', 'Pittsburgh Steelers'],
+               ['Georgia', 'Ohio State', 'Michigan', 'LSU']
+               
                ]
 objectsList = []
-answersList = [2, 3, 4, 2, 3, 1, 1, 4, 2, 1]
+answersList = [2, 3, 4, 2, 3, 1, 1, 4, 2, 1, 3, 2, 2, 4, 3]
 player1 = 0
 player2 = 0
 index = 0
